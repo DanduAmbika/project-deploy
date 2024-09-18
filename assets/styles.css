@@ -6,15 +6,22 @@
     background-position: center;
 }
 .B h1  {
-    font-size: 80px;
+    font-size: 44px;
+}
+.B p {
+    margin-top: 17px;
+    text-align: justify;
 }
 .B button {
     color: white;
     background-color: orangered;
     border: none;
-    padding: 15px;
+    padding: 10px;
+} 
+.B {
+    padding: 60px 0px;
 }
-    a {   
+a {   
     list-style-type: none;
     text-decoration: none;
     color: black;
@@ -28,18 +35,16 @@
 .logo img { 
     width: 15%;
 }
- .A h1 {  
+ .A h1 { 
     font-size: 20px;
 } 
   .nav-item a {
     color: black !important;
   } 
-.B {
-    padding: 60px 0px;
-}
+
 .C {
-    padding: 60px 0px;
-}
+    position: relative;
+  }
  .fit  i {   
     padding: 10px;
 }
@@ -47,201 +52,65 @@ a {
     font-weight: bold !important;
 }
 .D img {
-    width: 117%;
-    height: 486px;
-    margin-top: -60px;
-    margin-left: -71px;
+    width: 50%;
+    height: 484px;
 }
-.E { 
-    background-color: paleturquoise;
-    padding: 60px 0px;
-     margin-left: -45px;
-    margin-right: -70px; 
-    margin-top: -60px;
+.D {
+    position: absolute;
+    left: 0px;
+    top: 0px;
 }
-.E h1 {
-    margin-left: 102px;
+.section {
+    position: relative;
 }
-.E p {
-    margin-left: 62px;
-    margin-right: 71px; 
+.Mal {
+    background-color: lightgray;
+    width: 742px;
+}
+.k img {
+    width: 80%;
+    height: 311px;
+}
+.k {
+    position: absolute;
+    top: 71px;
+}
+ .N p {
+    margin-top: 11px;
     text-align: justify;
-} 
-.E button {
-    background-color: orangered;
-    border: none;
-    color: white;
-    padding: 8px;
-    margin-left: 60px;
-}
- .G button { 
-    background-color: black;
-    color: white;
+    font-size: 15px;
 }
 .G h1 {
-    margin-top: -34px;
-}
-.H {
-    background-color: blanchedalmond;
-    margin-right: -69px;
-    padding: 10px 37px;
-    margin-left: -45px; 
-    margin-top: -60px;
-}
-.H h4 {
-    margin-left: 48px;
-    margin-top: 16px;
-}
-.H i { 
-    background-color: white;
-    padding: 10px;
-    border-radius: 53px;
-    margin-left: 65px; 
-    padding-top: 8px;
-}
-.section { 
-    position: relative;
-    }
-.k img {
-    position: absolute;
-    margin-top: -295px;
-    width: 23%;
-    height: 77%;
-    margin-left: 711px;
-}
- .Mal { 
-    background-color: gray;
-     margin-left: -71px; 
-    color: white;
- }
-.I h1 {
-    margin-left: 42px;
- }
-.J h4 {
-    margin-left: 40px;
-}
-.J p {
-    margin-left: 40px;
-    text-align: justify;
-    font-size: 14px;
-    margin-right: 48px;
-}
-.watch img {
-    margin-left: 621px; 
-    margin-top: -75px;
-    margin-bottom: -101px;
-    height: 205px;
-    width: 127px;
-}
-.watch h1 {
+    font-size: 29px;
     text-align: center;
-    margin-left: -496px;
-    margin-bottom: -80px;
-    margin-top: -47px;
 }
-.watch {
+ .G button { 
     background-color: orangered;
-    margin-top: 51px;
-    padding: 60px 0px;
-}
-.phone {
-    position: relative;
-}
-.s img {
-    position: absolute;
-    margin-top: 162px;
-    width: 24%;
-    height: 60%;
-    margin-left: 71px;
-}
-.T h1 {
-    margin-top: -51px;
-    margin-left: 60px;
-}
-.T {
-    background-color: grey;
-    margin-left: -43px; 
-    padding: 60px 0px;
-    margin-top: 47px;
-    margin-right: -69px;
     color: white;
+    border: none;
+    padding: 6px;
 }
-.T h4 {
-    margin-left: 64px; 
-    margin-top: 20px;
-}
-.T p {
-    margin-left: 67px; 
-}
-.At {
-    background-color: orangered;
-    margin-left: -20px;
-    margin-right: -68px; 
-    color: white;
-    margin-top: -62px;
-    padding: 60px 0px;
-}
-.At h1 {
-    text-align: center;
-    margin-top: -2px;
-    padding: 49px;
-}
-.At h6 {
-    text-align: center;
-    font-size: 21px;
-    margin-top: -41px;
-}
-.At p {
-    text-align: justify;
-    margin-left: 215px;
-    font-size: 12px;
-    margin-right: 222px; 
-    margin-bottom: 48px;
-}
-.At button {
-    margin-left: 263px; 
-    background-color: black;
-    color: white;
-}
-.Fit {
-    padding: 60px 0px;
-}
-.All1 img {
-    margin-top: -63px;
-}
-.All2 img {
-    margin-top: -63px;
-}
-.All3 img {
-    margin-top: -20px;
-}
-.All4 img {
-    margin-top: -20px;
-}
-.Thanks {
-    text-align: center;
+.Thanks { 
     background-image: url(./images/img\ 1.jpeg);
     color: white;
-    margin-bottom: 40px;
-    padding: 20px;
-    background-size: cover;
     background-position: center;
-    margin-top: -72px;
-    margin-left: -17px; 
- } 
- .Thanks {
+    background-size: cover;
     padding: 60px 0px;
 }
-.Thanks p {
-    margin-top: 38px;
-    margin-left: 88px; 
+.Thanks h1{
     text-align: center;
-    font-size: 16px;
+}
+.Thanks h4 {
+    text-align: center;
+}
+.Thanks p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 20px;
 }
 .last {
     text-align: center;
     background-color: gray;
-    margin-left: -36px; 
     margin-top: 19px;
     color: white;
 }
@@ -250,30 +119,30 @@ input[type="text"] {
     border-right: none;
     border-top: none;
     border-bottom: 1px solid black;
-    margin-left: 26px;
-    width: 400px;
+    margin-left: 27px;
+    width: 425px;
 }
 input[type="content"] {
     border-left: none;
     border-right: none;
     border-top: none;
     border-bottom: 1px solid black;
-    margin-left: 24px;
-    width: 370px;
+    margin-left: 11px;
+    width: 419px;
     padding-bottom: 47px;
 }
 .last h6 {
     font-weight: normal;
-    padding: -6px;
+    font-size: 15px;
 }
 .last p {
-    padding: -8px;
     margin-bottom: 7px;
+    font-size: 20px;
 }
 .icon {
     display: flex;
 }
-.iconbox i {
+.iconbox i { 
     background-color: orangered;
     height: 30px;
     width: 30px;
@@ -286,1219 +155,1138 @@ input[type="content"] {
     margin-top: 30px;
 }
 .icon p {
-    margin-top: 18px;
+    padding: 20px;
 }
-button {
+.E button {
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 6px;
+    margin-left: 170px;
+}
+.pull h4 {  
+    padding: 18px;
+}
+.box h4 {
+    padding: 13px;
+}
+.send h4 {
+    padding: 20px;
+}
+.At {
+    background-color: beige;
+}
+.pic {
+    position: relative;
+}
+.image {
+    position: absolute;
+    top: 3px;
+    left: 720px;
+}
+.pic {
+    background-color: orangered;   
+}
+.image img {
+    width: 101%;
+    height: 90px;
+}
+ .phone { 
+    position: relative;
+}
+.s img {
+    position: absolute;
+    width: 28%;
+    top: 95px;
+    left: 96px;
+    height: 376px;
+}
+.form button {
+    background-color: orangered;
+    border: none;
+    color: black;
+}
+.H {
+    background-color: beige;
+    width: 300px;
+}
+.E {
+    padding: 60px 0px;
+}
+.At {
+    background-color: beige;
+    padding: 123px 183px;
+    text-align: center;
+}
+.T {
+    background-color: grey;
+    color: white;
+}
+.set {
+    text-align: center;
+}
+.k {
+    position: absolute;
+    left: 713px;
+    top: 128px;
+}
+.I h1 {
+    font-size: 35px;
+}
+.J h4 {
+    font-size: 21px;
+    margin: 2px;
+}
+.J p {
+    text-align: justify;
+    padding: 10px 59px;
+    margin: 5px;
+}
+.T h1 { 
+    margin-left: 30px;
+    font-size: 30px;
+}
+.T h4 {
+    margin-left: 33px;
+    font-size: 20px;
+}
+.At p { 
+    text-align: justify;
+    font-size: 12px;
+}
+.At button {
     background-color: orangered;
     color: white;
     border: none;
-    padding: 8px;
-    margin-left: 9px;
+    padding: 5px;
 }
-@media only screen and (min-width:280px) and (max-width:480px)
+.F {
+    padding: 60px 0px;
+}
+.C {
+    background-color:pink;
+}
+.see button {
+    background-color: orangered;
+    border: none;
+    padding: 5px;
+}
+.phone {
+    padding: 60px 0px;
+}
+.Thanks {
+    padding: 60px 0px;
+}
+.H {
+    padding: 22px;
+}
+.H h4 {
+    margin: 2px;
+    font-size: 22px;
+}
+.H i { 
+    background-color: white;
+    padding: 10px;
+    border-radius: 53px;
+}
+.E p {  
+    text-align: justify;
+}
+.I h1 {
+    font-size: 35px;
+    margin-left: 63px;
+}
+.J h4 {
+    font-size: 21px;
+    margin-left: 62px;
+}
+.T p {
+    margin-left: 32px;
+}
+.see {
+    text-align: center;
+}
+.see a {
+    border: 2px solid;
+    padding: 4px;
+    background-color: orangered;
+    color: white;
+}
+.watch h1 {
+    text-align: center;
+}
+.section{
+    padding: 60px 0px;
+}
+
+
+  @media only screen and (min-width:280px) and (max-width:480px)  
 {
-    .B h1 {
-        font-size: 19px;
-        margin-left: 13px;
-        text-align: center;
-    }
-    .logo img {
-        width: 25%;
-        margin-left: -4px;
-        margin-right: -14px;
-    }
     .B {
         background-image: url(./images/img\ 1.jpeg);
         color: white;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-        width: 477px;
+        width: 797px;
     }
-    .B p {
-        margin-top: 23px;
-        font-size: 14px;
-        text-align: justify;
-        margin-left: 20px;
-        margin-right: 18px;
+    .B h1 {
+        font-size: 34px;
+        text-align: center;
     }
     .B button {
         color: white;
         background-color: orangered;
         border: none;
-        padding: 4px;
-        margin-left: 171px; 
-        margin-top: 15px;
+        padding: 10px;
+        margin-left: 308px;
+        font-size: 28px;
     }
-    .D img {
-        width: 209%;
-        height: 431px;
-        margin-top: -60px;
+    .D {
+        position: absolute;
+        top: 773px;
+        width: 797px;
     }
-    .E {
-        background-color: paleturquoise;
-        padding: 60px 0px;
-        margin-left: -21px;
-        margin-right: -208px; 
-        margin-top: -1px;
+    .C {
+        background-color: pink;
+        width: 797px;
+        font-size: 24px;
+        padding: 30px;
     }
     .E h1 {
-        margin-left: 66px;
+        font-size: 36px;
+        text-align: center;
+        padding: 15px;
+    }
+    .G h1 {
+        font-size: 49px;
+        text-align: center;
+        margin-top: 390px;
+        margin-left: 186px;
+    }
+    .D img {
+        width: 100%;
+    }
+    .B p {
+        text-align: justify;
+        font-size: 26px;
+        margin: 30px;
+    }
+    .set button {
+        font-size: 24px;
+        padding: 11px;
+        background-color: orangered;
+        color: white;
+        border: none;
+    }
+    .pic {
+        width: 797px;
+    }
+    .see {
+        text-align: center;
     }
     .H {
-        background-color: blanchedalmond;
-        padding: 10px 37px;
-        margin-top: -5px;
-        width: 508px;
-    }
-    .H h4 {
-        margin-left: 205px;
-        margin-top: 16px;
-        font-size: 14px;
+        background-color: beige;
+        width: 797px;
+        margin-top: 20px;
     }
     .H i {
         background-color: white;
         padding: 10px;
         border-radius: 53px;
-        margin-left: 208px;
-        padding-top: 8px;
+        margin: 264px;
+        font-size: 52px;
     }
-    .G h1 {
-        margin-top: -34px;
-        margin-left: 156px;
-        font-size: 18px;
-    }
-    .G button {
-        background-color: black;
-        color: white;
-        margin-left: 160px;
-        margin-top: 9px;
-        font-size: 10px;
-        margin-bottom: 49px;
+    .H h4 {
+        font-size: 35px;
+        margin-left: 259px;
     }
     .N p {
-        margin-left: 39px;
-        margin-right: -155px; 
-        font-size: 15px;
-        margin-top: 17px;
-        text-align: justify;
-    }
-    .I h1 {
-        margin-left: 81px;
-        font-size: 22px;
-    }
-    .section {
-        margin-left: 59px;
-        margin-right: -104px;
-    }
-    .I h1 {
-        margin-left: 102px;
-        font-size: 19px;
-        margin-top: 1px;
-        padding: 14px;
-    }
-    .J h4 {
-        margin-left: 40px;
-        font-size: 16px;
-        margin-top: 10px;
-    }
-    .watch {
-        background-color: orangered;
-        margin-top: 337px;
-        padding: 60px 0px;
-        width: 477px;
-    }
-    .watch img {
-        margin-left: 114px;
-        margin-top: -75px;
-        margin-bottom: -101px;
-        height: 110px;
-        width: 73px;
-    }
-    .navbar-toggler i {
-        margin-left: 20px;
-        color: black;
-        font-size: 20px;
-    }
-    .navbar-toggler i {
-        font-size: 20px;
-        margin-left: 306px;
-        color: black;
+        width: 797px;
+        font-size: 25px;
+        padding: 1px 45px;
     }
     .Mal {
-        margin-right: -81px;
-    }
-    .k img {
-        position: absolute;
-        margin-top: 0px;
-        margin-left: -70px;
-        width: 145%;
-        height: 60%;
-    }
-    watch {
-        background-color: orangered;
-        margin-top: 337px;
-        padding: 60px 0px;
-        width: 472px;
-    }
-    .watch img {
-        margin-left: 197px;
-        margin-top: -19px;
-        margin-bottom: -101px;
-        height: 148px;
-        width: 93px;
-    }
-    .watch h1 {
-        text-align: center;
-        margin-left: -283px;
-        margin-bottom: -80px;
-        margin-top: -16px;
-        font-size: 17px;
+        background-color: lightgray;
+        width: 797px;
+        font-size: 22px;
     }
     .T {
         background-color: grey;
-        padding: 60px 0px;
-        margin-top: 47px;
+        padding: 20px 40px;
         color: white;
-        width: 509px;
-    }
-    .T p {
-        margin-left: 92px;
+        width: 797px;
         text-align: justify;
-        font-size: 17px;
-        margin-right: 62px;
-    }
-    .T h1 {
-        margin-top: -51px;
-        margin-left: 145px;
-    }
-    .T h4 {
-        margin-left: 92px;
-        margin-top: 20px;
-        font-size: 15px;
-        margin-top: 26px;
-    }
-    .All1 img {
-        margin-top: 419px;
-        margin-left: 86px;
-        width: 106%;
-    }
-    .All2 img {
-        margin-top: -2px;
-        margin-left: 86px;
-        width: 106%;
-    }
-    .All3 img {
-        margin-top: -2px;
-        margin-left: 86px;
-        width: 106%;
-    }
-    .All4 img {
-        margin-top: -2px;
-        margin-left: 86px;
-        width: 106%;
-    }
-    .All1 h4 {
         font-size: 20px;
-        margin-left: 78px;
-        margin-right: -1px;
-        font-size: 18px;
-    }
-    .All2 h4 {
-        font-size: 40px;
-        margin-left: 78px;
-        margin-right: -1px;
-        font-size: 18px;
-    }
-    .All3 h4 {
-        font-size: 40px;
-        margin-left: 78px;
-        margin-right: -1px;
-        font-size: 18px;
-    }
-    .All4 h4 {
-        font-size: 40px;
-        margin-left: 78px;
-        margin-right: -1px;
-        font-size: 18px;
-    }
-    .At {
-        background-color: orangered;
-        color: white;
-        margin-top: 23px;
-        padding: 30px 0px;
-        width: 487px;
-    }
-    .At p {
-        text-align: justify;
-        margin-left: 83px;
-        font-size: 16px;
-        margin-right: 57px;
-        margin-bottom: 48px
-    }
-    .All1 p {
-        margin-left: 80px;
-        margin-right: -144px;
-        font-size: 22px;
-    }
-    .All2 p {
-        margin-left: 80px;
-        margin-right: -144px;
-        font-size: 22px;
-    }
-    .All3 p {
-        margin-left: 80px;
-        margin-right: -144px;
-        font-size: 22px;
-    }
-    .All4 p {
-        margin-left: 80px;
-        margin-right: -144px;
-        font-size: 22px;
-    }
-    .At button {
-        margin-left: 183px;
-        background-color: black;
-        color: white;
-    }
-    .s img {
-        position: absolute;
-        margin-top: 810px;
-        width: 171%;
-        height: 60%;
-        margin-left: -13px;
-    }
-    .Thanks {
-        padding: 30px 0px;
-        margin-left: -7px;
-        margin-right: -198px; 
-    }
-    .Thanks p {
-        margin-top: 28px;
-        margin-left: 39px;
-        text-align: justify;
-        font-size: 14px;
     }
     .last {
         text-align: center;
         background-color: gray;
+        margin-top: 19px;
         color: white;
-        width: 510px;
+        width: 797px;
     }
-}
- @media only screen and (min-width:480px) and (max-width:575.98px) 
-{    
-    .logo img {
-        width: 52%;
-        margin-left: 35px;
-        margin-right: -173px;
-    }
-    .Mal {
-        background-color: gray;
-        margin-left: -70px;
+    .Thanks {
+        background-image: url(./images/img\ 1.jpeg);
         color: white;
-        width: 940px;
-    }
-    .navbar-toggler {
-        color: black;
-        font-size: 30px;
-        width: 119px;
-    }
-    .B {
-        width: 953px;
-    }
-    .B h1 {
-        font-size: 38px;
-        margin-left: 13px;
-        text-align: center;
-    }
-    .B p {
-        margin-top: 23px;
-        font-size: 19px;
-        text-align: justify;
-        margin-left: 66px;
-        margin-right: 31px;
-    }
-    .B button {
-        color: white;
-        background-color: orangered;
-        border: none;
-        padding: 13px;
-        margin-left: 412px;
-        margin-top: 15px;
-        font-size: 17px;
-    }
-    .E {
-        background-color: paleturquoise;
-        padding: 60px 0px;
-        margin-top: -1px;
-        font-size: 18px;
-        width: 963px;
-    }
-    .E button {
-        background-color: orangered;
-        border: none;
-        color: white;
-        padding: 13px;
-        margin-left: 78px;
-        margin-top: 10px;
-    }
-    .E p {
-        margin-left: 74px;
-        margin-right: 123px;
-        text-align: justify;
-        font-size: 20px;
-        margin-top: 25px;
-    }
-    .G h1 {
-        margin-top: -34px;
-        margin-left: 314px;
-        font-size: 39px;
-        margin-right: -122px;
-    }
-    .G button {
-        background-color: black;
-        color: white;
-        margin-left: 339px;
-        margin-top: 9px;
-        font-size: 19px;
-        margin-bottom: 49px;
-        padding: 13px 9px;
-        margin-top: 23px;
-    }
-    .H {
-        background-color: blanchedalmond;
-        width: 992px;
-    }
-    .H i {
-        background-color: white;
-        padding: 21px;
-        border-radius: 133px;
-        margin-left: 420px;
-        font-size: 36px;
-    }
-    .H h4 {
-        margin-left: 416px;
-        font-size: 34px;
-        margin-bottom: 77px;
-        margin-top: 30px;
-    }
-    .N p {
-        margin-left: 65px;
-        margin-right: -443px;
-        font-size: 22px;
-        margin-top: 17px;
-        text-align: justify;
-    }
-    .k img {
-        position: absolute;
-        margin-top: 0px;
-        width: 137%;
-        height: 66%;
-    }
-    .section {
-        width: 706px;
-    }
-    .I h1 {
-        margin-left: 251px;
-        font-size: 36px;
-        margin-top: 20px;
-        padding: 14px;
-    }
-    .J h4 {
-        margin-left: 72px;
-        font-size: 25px;
-        margin-top: 10px;
-    }
-    .J p {
-        margin-left: 71px;
-        text-align: justify;
-        font-size: 26px;
-        margin-right: 85px;
-    }
-    .watch {
-        background-color: orangered;
-        margin-top: 500px;
-        width: 960px;
-    }
-    .watch img {
-        margin-left: 415px;
-        margin-top: -37px;
-        margin-bottom: -101px;
-        height: 170px;
-        width: 171px;
-    }
-    .watch h1 {
-        text-align: center;
-        margin-left: -283px;
-        margin-bottom: -80px;
-        margin-top: -26px;
-        font-size: 25px;
-    }
-    .T {
-        background-color: grey;
-        padding: 60px 0px;
-        margin-top: 47px;
-        color: white;
-        width: 969px;
-    }
-    .T h1 {
-        margin-top: -28px;
-        margin-left: 346px;
-        font-size: 34px;
-    }
-    .T h4 {
-        margin-left: 92px;
-        font-size: 28px;
-        margin-top: 35px;
-    }
-    .T p {
-        margin-left: 92px;
-        text-align: justify;
-        font-size: 20px;
-        margin-right: 62px;
+        background-position: center;
+        background-size: cover;
+        width: 797px;
     }
     .s img {
         position: absolute;
-        margin-top: 785px;
-        width: 195%;
-        height: 60%;
-        margin-left: -13px;
+        width: 286%;
+        top: 734px;
+        left: 10px;
+        height: 650px;
     }
-    .All1 img {
-        margin-top: 419px;
-        margin-left: 159px;
-        width: 110%;
-    }
-    .All2 img {
-        margin-top: -7px;
-        margin-left: 159px;
-        width: 110%;
-    }
-    .All3 img {
-        margin-top: -7px;
-        margin-left: 159px;
-        width: 110%;
-    }
-    .All4 img {
-        margin-top: -7px;
-        margin-left: 159px;
-        width: 110%;
-    }
-    .All1 h4 {
-        font-size: 20px;
-        margin-left: 237px;
-        font-size: 33px;
-        margin-right: -233px;
-    }
-    .All2 h4 {
-        font-size: 20px;
-        margin-left: 237px;
-        font-size: 33px;
-        margin-right: -233px;
-    }
-    .All3 h4 {
-        font-size: 20px;
-        margin-left: 237px;
-        font-size: 33px;
-        margin-right: -233px;
-    }
-    .All4 h4 {
-        font-size: 20px;
-        margin-left: 237px;
-        font-size: 33px;
-        margin-right: -233px;
-    }
-    .All1 p {
-        margin-left: 103px;
-        margin-right: -394px;
-        font-size: 35px;
-        margin-top: 19px;
-    }
-    .All2 p {
-        margin-left: 103px;
-        margin-right: -394px;
-        font-size: 35px;
-        margin-top: 19px;
-    }
-    .All3 p {
-        margin-left: 103px;
-        margin-right: -394px;
-        font-size: 35px;
-        margin-top: 19px;
-    }
-    .All4 p {
-        margin-left: 103px;
-        margin-right: -394px;
-        font-size: 35px;
-        margin-top: 19px;
-    }
-    .At {
+    .iconbox i {
         background-color: orangered;
+        height: 30px;
+        width: 30px;
+        padding: 10px;
+        border-radius: 52px;
         color: white;
-        margin-top: 23px;
-        padding: 30px 0px;
-        width: 944px;
-    }
-    .At h1 {
-        margin-top: -2px;
-        padding: 49px;
-        font-size: 42px;
-        text-align: center;
-    }
-    .At h6 {
-        text-align: center;
-        font-size: 39px;
-        margin-top: -24px;
-    }
-    .At p {
-        text-align: justify;
-        margin-left: 83px;
-        font-size: 27px;
-        margin-right: 57px;
-        margin-bottom: 48px;
-    }
-    .At button {
-        margin-left: 353px;
-        background-color: black;
-        color: white;
-        font-size: 25px;
-    }
-    .Thanks {
-        width: 945px;
-    }
-    .Thanks h1 {
-        font-size: 46px;
-    }
-    .Thanks h4 {
-        font-size: 32px;
-    }
-    .Thanks p {
-        margin-top: 28px;
-        margin-left: 78px;
-        text-align: justify;
-        font-size: 22px;
-        margin-right: 57px;
+        font-size: 58px;
     }
     .icon p {
-        margin-top: 12px;
-        font-size: 32px;
-        margin-left: 20px;
+        padding: 20px;
+        font-size: 36px;
     }
-    .iconbox i {
-        background-color: orangered;
-        height: 30px;
-        width: 30px;
-        padding: 16px;
-        border-radius: 97px;
-        color: white;
-        font-size: 40px;
-        margin-left: 97px;
-    }
-    .pull h4 {
-        font-size: 38px;
-        margin-left: 74px;
-        margin-top: 10px;
+    .send h4 {
+        padding: 20px;
+        font-size: 49px;
     }
     .form {
-        font-size: 35px;
-        margin-left: 45px;
-        margin-top: 30px;
+        font-size: 38px;
     }
     input[type="text"] {
         border-left: none;
         border-right: none;
         border-top: none;
         border-bottom: 1px solid black;
-        margin-left: 130px;
-        width: 537px;
-        margin-top: -69px;
+        margin-left: 27px;
+        width: 541px;
     }
-    input[type="content"] {
+    input[type="content"] { 
         border-left: none;
         border-right: none;
         border-top: none;
         border-bottom: 1px solid black;
-        margin-left: 120px;
-        width: 530px;
+        width: 556px;
         padding-bottom: 47px;
-        margin-top: -69px;
+        margin-left: 20px;
     }
-    button {
+    .form button {
         background-color: orangered;
-        color: white;
         border: none;
-        padding: 6px;
-        margin-left: 176px;
-    }
-    .last {
-        text-align: center;
-        background-color: gray;
-        color: white;
-        width: 1004px;
+        color: black;
+        font-size: 29px;
+        padding: 11px;
     }
     .last p {
-        padding: 10px;
         margin-bottom: 7px;
-        font-size: 28px;
+        font-size: 30px;
     }
     .last h6 {
         font-weight: normal;
-        padding: -6px;
-        font-size: 26px;
-    }
-    .Mal {
-        background-color: gray;
-        margin-left: -70px;
-        color: white;
-        width: 955px;
-    }
-    .D img {
-        width: 223%;
-        height: 431px;
-        margin-top: -60px;
-    }
-}
-
- @media only screen and (min-width:576px) and (max-width:767.98px) 
- {
-    .B {
-        background-image: url(./images/img\ 1.jpeg);
-        color: white;
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center;
-        width: 2309px;
-    }
-    .B p {
-        margin-top: 54px;
-        font-size: 55px;
-        margin-left: -561px;
-        margin-right: -551px;
-        text-align: justify;
-    }
-    .E {
-        background-color: paleturquoise;
-        margin-left: 758px;
-        margin-right: -279px;
-        margin-top: -1623px;
-        width: 1522px;
-    }
-    .E h1 {
-        margin-left: 102px;
-        font-size: 70px;
-    }
-    .E p {
-        margin-left: 119px;
-        margin-right: 164px;
-        text-align: justify;
-        margin-top: 48px;
-        font-size: 50px;
-    }
-    .D img {
-        width: 161%;
-        height: 1621px;
-        margin-top: -60px;
-        margin-left: -71px;
-    }
-    .E button {
-        background-color: orangered;
-        border: none;
-        color: white;
-        padding: 32px;
-        margin-left: 127px;
-        font-size: 47px;
-        margin-top: 40px;
-    }
-    .B button {
-        color: white;
-        background-color: orangered;
-        border: none;
-        padding: 15px;
-        font-size: 51px;
-        margin-top: 53px;
-    }
-    .G h1 {
-        margin-top: 26px;
-        margin-left: 952px;
-        font-size: 85px;
-    }
-    .H {
-        background-color: blanchedalmond;
-        margin-right: -69px;
-        padding: 10px 37px;
-        margin-left: -45px;
-        margin-top: 230px;
-    }
-    .G button {
-        background-color: black;
-        color: white;
-        font-size: 46px;
-        margin-left: 991px;
-        margin-right: 195px;
-        margin-top: 60px;
-        padding: 11px 84px;
-        margin-bottom: 81px;
-    }
-    .H {
-        background-color: blanchedalmond;
-        margin-right: -69px;
-        padding: 10px 37px;
-        margin-left: -45px;
-        margin-top: -3px;
-        width: 2320px;
-    }
-    .H h4 {
-        margin-top: 43px;
-        font-size: 80px;
-        text-align: center;
-    }
-    .H i {
-        background-color: white;
-        padding: 27px;
-        border-radius: 85px;
-        margin-left: 1055px;
-        padding-top: 8px;
-        font-size: 97px;
-        margin-top: 126px;
-    }
-    .N p {
-        font-size: 54px;
-        margin-right: -1574px;
-        margin-left: 169px;
-        margin-top: 50px;
-    }
-    .k img {
-        position: absolute;
-        margin-top: -1517px;
-        width: 160%;
-        height: 93%;
-        margin-left: 1362px;
-    }
-    .Mal {
-        width: 1434px;
-        margin-top: 121px;
-    }
-    .I h1 {
-        margin-left: 336px;
-        font-size: 71px;
-        padding: 31px;
-    }
-    .J h4 {
-        margin-left: 139px;
-        font-size: 40px;
-        margin-top: 28px;
-    }
-    .J p {
-        margin-left: 132px;
-        text-align: justify;
-        font-size: 46px;
-        margin-right: 48px;
-        margin-top: 20px;
-    }
-    .watch {
-        width: 2307px;
-        height: 205px;
-    }
-    .watch img {
-        margin-left: 1089px;
-        margin-top: -128px;
-        margin-bottom: -101px;
-        height: 289px;
-        width: 293px;
-    }
-    .watch h1 {
-        font-size: 71px;
-    }
-    .s img {
-        position: absolute;
-        margin-top: 50px;
-        width: 142%;
-        height: 97%;
-        margin-left: 1457px;
-    }
-    .T {
-        background-color: grey;
-        margin-left: -43px;
-        padding: 60px 0px;
-        margin-top: 47px;
-        margin-right: -69px;
-        color: white;
-        width: 1500px;
-    }
-    .T h1 {
-        margin-top: -23px;
-        margin-left: 353px;
-        font-size: 71px;
-    }
-    .T h4 {
-        margin-left: 133px;
-        margin-top: 47px;
-        font-size: 40px;
-    }
-    .T p {
-        margin-left: 130px;
-        font-size: 41px;
-        margin-top: 20px;
-        margin-right: 39px;
-        text-align: justify;
+        font-size: 31px;
     }
     .All1 img {
-        margin-top: 8px;
-        width: 666px;
+        margin-top: 570px;
+        width: 797px;
     }
     .All2 img {
-        margin-top: 8px;
-        width: 666px;
+        width: 797px;
+        margin-top: -8px;
     }
     .All3 img {
-        margin-top: -2908px;
-        width: 666px;
-        margin-left: 1296px;
+        width: 797px;
+        margin-top: -8px;
     }
     .All4 img {
-        margin-top: 8px;
-        width: 666px;
+        width: 797px;
+        margin-top: -8px;
     }
-    .All1 h4 {
-        font-size: 44px;
-        margin-left: 73px;
-    }
-    .All2 h4 {
-        font-size: 44px;
-        margin-left: 73px;
-    }
-    .All3 h4 {
-        font-size: 43px;
-        margin-top: -1171px;
-        margin-left: 1196px;
-        margin-right: 50px;
-    }
-    .All1 p {
-        font-size: 36px;
-        margin-left: 70px;
-        margin-top: 35px;
-    }
-    .All2 p {
-        font-size: 36px;
-        margin-left: 70px;
-        margin-top: 35px;
+    .navbar-toggler i {
+        font-size: 55px;
+        color: black;
     }
     .At {
-        background-color: orangered;
-        color: white;
-        margin-top: 37px;
-        padding: 60px 0px;
-        width: 2301px;
-        margin-left: -25px;
+        background-color: beige;
+        padding: 123px 183px;
+        text-align: center;
+        width: 797px;
     }
     .At h1 {
-        text-align: center;
-        margin-top: -2px;
-        padding: 49px;
-        font-size: 59px;
+        font-size: 55px;
     }
     .At h6 {
-        text-align: center;
-        font-size: 38px;
-        margin-top: 3px;
+        font-size: 27px;
     }
     .At p {
         text-align: justify;
-        margin-left: 177px;
-        font-size: 32px;
-        margin-right: 58px;
-        margin-bottom: 48px;
-        margin-top: 41px;
+        font-size: 25px;
     }
     .At button {
-        margin-left: 1037px;
-        background-color: black;
-        color: white;
-        font-size: 48px;
-        margin-top: 20px;
-    }
-    .Thanks {
-        text-align: center;
-        background-image: url(./images/img\ 1.jpeg);
-        color: white;
-        margin-bottom: 40px;
-        background-size: cover;
-        background-position: center;
-        margin-top: -72px;
-        width: 2310px;
-    }
-    .Thanks h1 {
-        font-size: 85px;
-    }
-    .Thanks h4 {
-        font-size: 56px;
-        margin-top: 30px;
-    }
-    .Thanks p {
-        margin-top: 38px;
-        font-size: 45px;
-        text-align: justify;
-        margin-left: -578px;
-        margin-right: -631px;
-    }
-    .iconbox i {
-        background-color: orangered;
-        height: 30px;
-        width: 30px;
-        padding: 11px;
-        border-radius: 199px;
-        color: white;
-        font-size: 94px;
-        margin-top: 79px;
-        margin-left: 71px;
-    }
-    .box p {
-        font-size: 60px;
-        margin-left: 40px;
-    }
-    .form {
-        margin-top: -1197px;
-        margin-left: 1267px;
-        font-size: 48px;
-    }
-    .icon {
-        display: flex;
-        padding: 99px;
-    }
-    input[type="text"] {
-        border-left: none;
-        border-right: none;
-        border-top: none;
-        border-bottom: 1px solid black;
-        margin-left: 26px;
-        width: 811px;
-    }
-    input[type="content"] {
-        border-left: none;
-        border-right: none;
-        border-top: none;
-        border-bottom: 1px solid black;
-        margin-left: 24px;
-        width: 830px;
-        padding-bottom: 47px;
-    }
-    button {
         background-color: orangered;
         color: white;
         border: none;
-        padding: -20px 66px;
-        margin-left: 9px;
-    }
-    .last {
-        text-align: center;
-        background-color: gray;
-        margin-left: -36px;
-        margin-top: 19px;
-        color: white;
-        width: 2352px;
-    }
-    .last h6 {
-        font-weight: normal;
-        padding: -6px;
-        font-size: 50px;
-    }
-    .last p {
-        padding: -8px;
-        margin-bottom: 7px;
-        font-size: 70px;
-        margin-top: 74px;
+        padding: 13px;
+        font-size: 22px;
     }
     .navbar-toggler i {
-        font-size: 100px;
+        font-size: 29px;
         color: black;
-        margin-left: 20px;
+        margin-left: 556px;
     }
-    .logo img {
-        width: 50%;
+    .image {
+        position: absolute;
+        top: 0px;
+        left: 394px;
     }
+    .All1 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .All2 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .All3 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .All4 p {
+        font-size: 39px;
+        margin-left: 83px;
+        margin-right: -529px;
+    }
+    .E button {
+        background-color: aqua;
+        color: black;
+        border: none;
+        padding: 14px;
+        margin-left: 239px;
+        font-size: 31px;
+    }
+    .image {
+        position: absolute;
+        top: -4px;
+        left: 394px;
+    }
+    .All1 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .All2 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .All3 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .All4 h4 {
+        font-size: 51px;
+        margin-left: 81px;
+        margin-right: -422px;
+    }
+    .image img {
+        width: 57%;
+        height: 90px;
+        margin-left: 79px;
+    }
+    
+ }
+@media only screen and (min-width:480px) and (max-width:575.98px) 
+{
+.B {
+    background-image: url(./images/img\ 1.jpeg);
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1115px;
 }
-    @media only screen and (min-width:768px) and (max-width:1199.98px) {
+.B h1 {
+    font-size: 59px;
+    text-align: center;
+}
+.B p {
+    text-align: justify;
+    font-size: 34px;
+    margin: 30px;
+}
+.C {
+    background-color: pink;
+    width: 1116px;
+    font-size: 24px;
+    padding: 11px 61px;
+}
+.E h1 {
+    font-size: 65px;
+    text-align: center;
+    padding: 15px;
+}
+.E p {
+    text-align: justify;
+    font-size: 33px;
+}
+.D img {
+    width: 146%;
+    height: 510px;
+}
+.H {
+    background-color: beige;
+    width: 1110px;
+}
+.H i {
+    background-color: white;
+    padding: 10px;
+    border-radius: 53px;
+    margin: 496px;
+    font-size: 52px;
+}
+.N p {
+    width: 1089px;
+    font-size: 30px;
+    padding: 1px 45px;
+}
+.Mal {
+    background-color: lightgray;
+    width: 1120px;
+    font-size: 30px;
+}
+.I h1 {
+    padding: 4px 54px;
+    font-size: 42px;
+}
+.J h4 {
+    font-size: 32px;
+    padding: 0px 63px;
+    margin: 2px;
+}
+.T {
+    background-color: grey;
+    padding: 20px 40px;
+    color: white;
+    width: 1109px;
+    text-align: justify;
+    font-size: 25px;
+}
+.T h4 {
+    font-size: 31px;
+    margin: 31px;
+}
+.T h1 {
+    margin-left: 30px;
+    font-size: 38px;
+}
+.s img {
+    position: absolute;
+    width: 238%;
+    top: 904px;
+    left: 0px;
+    height: 650px;
+}
+.All1 img {
+    width: 632px;
+    margin: 200px;
+    margin-top: 479px;
+}
+.All2 img {
+    width: 632px;
+    margin-top: -14px;
+    margin-left: 245px;
+}
+.All3 img {
+    width: 632px;
+    margin: 200px;
+    margin-top: -24px;
+}
+.All4 img {
+    width: 632px;
+    margin: 200px;
+    margin-top: -25px;
+}
+.D {
+    position: absolute;
+    top: 917px;
+}
+.E button {
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 6px;
+    margin-left: 361px;
+    font-size: 33px;
+}
+.pic {
+    width: 1138px;
+}
+.image img {
+    width: 99%;
+    height: 92px;
+}
+.G h1 {
+    font-size: 49px;
+    text-align: center;
+    margin-top: 390px;
+    margin-left: 474px;
+}
+.At {
+    background-color: beige;
+    padding: 123px 183px;
+    text-align: center;
+    width: 1131px;
+}
+.image {
+    position: absolute;
+    top: 0px;
+    left: 642px;
+}
+.All1 h4 {
+    margin-top: -246px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.All2 h4 {
+    margin-top: -102px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.All3 h4 {
+    margin-top: -264px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.All4 h4 {
+    margin-top: -270px;
+    font-size: 46px;
+    margin-left: 309px;
+    margin-right: -320px;
+}
+.At p {
+    text-align: justify;
+    font-size: 34px;
+}
+.At button {
+    background-color: orangered;
+    color: white;
+    border: none;
+    padding: 11px;
+    font-size: 26px;
+}
+.Thanks {
+    background-image: url(./images/img\ 1.jpeg);
+    color: white;
+    background-position: center;
+    background-size: cover;
+    width: 1143px;
+    margin-top: -57px;
+}
+.send h4 {
+    padding: 20px;
+    font-size: 52px;
+    margin-left: 31px;
+    margin-right: -148px;
+}
+.Thanks p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+}
+.Thanks h1 {
+    text-align: center;
+    font-size: 53px;
+}
+.Thanks h4 {
+    text-align: center;
+    font-size: 43px;
+}
+.last {
+    text-align: center;
+    background-color: gray;
+    margin-top: 19px;
+    color: white;
+    width: 1146px;
+}
+.last p {
+    margin-bottom: 7px;
+    font-size: 43px;
+}
+.form {
+    font-size: 60px;
+}
+input[type="text"] {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    margin-left: 27px;
+    width: 1034px;
+}
+.icon p {
+    padding: 20px;
+    font-size: 45px;
+    margin-left: 4px;
+}
+.iconbox i {
+    background-color: orangered;
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    border-radius: 287px;
+    color: white;
+    font-size: 81px;
+    margin-left: 152px;
+}
+input[type="content"] {
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    width: 1041px;
+    padding-bottom: 47px;
+    margin-left: 20px;
+}
+.navbar-toggler i {
+    font-size: 40px;
+    color: black;
+    margin-left: 700px;
+}
+}
+@media only screen and (min-width:576px) and (max-width:767.98px)
+{ 
     .B {
         background-image: url(./images/img\ 1.jpeg);
         color: white;
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-        width: 934px;
+        width: 766px;
     }
     .B h1 {
-        font-size: 54px;
-        margin-left: 4px;
-    }
-    .B p {
-        margin-top: 17px;
-        text-align: justify;
-        font-size: 17px;
+        font-size: 36px;
+        text-align: center;
     }
     .B button {
         color: white;
         background-color: orangered;
         border: none;
-        padding: 11px;
-        margin-left: 300px;
-        margin-top: 10px;
+        padding: 10px;
+        margin-left: 210px;
     }
-    .E {
-        background-color: paleturquoise;
-        padding: 60px 0px;
-        margin-left: -45px;
-        margin-right: -70px;
-        margin-top: -32px;
-        width: 705px;
-        margin-bottom: -47px;
+    .C {
+        background-color: pink;
+        width: 766px;
+    }
+    .G h1 {
+        font-size: 29px;
+        text-align: center;
+        margin-top: 244px;
+    }
+    .D {
+        position: absolute;
+        left: 0px;
+        top: 533px;
     }
     .D img {
-        width: 124%;
-        height: 524px;
-        margin-top: -60px;
-        margin-left: -71px;
+        width: 175%;
+        height: 291px;
     }
     .H {
-        background-color: blanchedalmond;
-        margin-right: -69px;
-        padding: 10px 37px;
-        margin-left: 281px;
-        margin-top: -97px;
-        width: 617px;
-        margin-bottom: 68px;
+        background-color: beige;
+        width: 766px;
+        margin-top: 0px;
+        margin-left: -31px;
     }
     .H h4 {
-        margin-left: 259px;
-        margin-top: 12px;
-        font-size: 11px;
-        padding: 8px;
+        margin: 2px;
+        font-size: 26px;
+        text-align: center;
+        margin-top: 10px;
+        margin-left: 20px;
     }
     .H i {
         background-color: white;
         padding: 10px;
         border-radius: 53px;
-        margin-left: 268px;
-        padding-top: 8px;
-        font-size: 11px;
-    }
-    .G h1 {
-        margin-top: -23px;
-        font-size: 20px;
-        margin-left: -5px;
-    }
-    .G button {
-        background-color: black;
-        color: white;
-        font-size: 10px;
-    }
-    .N p {
-        font-size: 19px;
-        margin-left: 45px;
-        margin-top: -8px;
-        margin-right: -199px;
-        padding: 9px;
-    }
-    .I h1 {
-        margin-left: 240px;
-    }
-    .J h4 {
-        margin-left: 76px;
-        margin-top: 17px;
-    }
-    .J p {
-        margin-left: 75px;
-        text-align: justify;
-        font-size: 19px;
-        margin-right: 48px;
-    }
-    .k img {
-        position: absolute;
-        margin-top: -588px;
-        width: 28%;
-        height: 100%;
-        margin-left: 696px;
-    }
-    .watch {
-        background-color: orangered;
-        margin-top: 51px;
-        padding: 60px 0px;
-        width: 948px;
-    }
-    .watch img {
-        margin-left: 435px;
-        margin-top: -42px;
-        margin-bottom: -101px;
-        height: 205px;
-        width: 127px;
-    }
-    .T {
-        background-color: grey;
-        margin-left: -70px;
-        padding: 60px 0px;
-        margin-top: 47px;
-        margin-right: 118px;
-        color: white;
+        margin-left: 343px;
+        font-size: 23px;
     }
     .s img {
         position: absolute;
-        margin-top: 46px;
-        width: 45%;
-        height: 93%;
-        margin-left: 575px;
+        width: 102%;
+        top: 509px;
+        left: -1px;
+    }
+    .Mal {
+        background-color: lightgray;
+        width: 766px;
+        margin-left: -12px;
+        margin-top: -113px;
+    }
+    .image {
+        position: absolute;
+        top: -4px;
+        left: 279px;
+    }
+    .watch h1 {
+        text-align: center;
+        margin-left: -179px;
+        margin-top: -45px;
+    }
+    .phone {
+        position: relative;
+        margin-top: -56px;
+        width: 766px;
+        margin-left: -13px;
+    } 
+    .All1 img {
+        width: 766px;
+        margin-top: 250px;
+    }
+    .All2 img {
+        width: 766px;
+        margin-top: -19px;
+    }
+    .All3 img {
+        width: 766px;
+        margin-top: -13px;
+    }
+    .All4 img {
+        width: 766px;
+        margin-top: -19px;
+    }
+    .All2 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .All1 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .All1 p {
+        font-size: 20px;
+        margin-top: 10px
+    }
+    .All3 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .All1 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All2 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All3 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All4 p {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: 19px;
+        margin-right: -327px;
+    }
+    .All4 h4 {
+        font-size: 42px;
+        margin-top: -78px;
+        margin-left: 136px;
+    }
+    .N p {
+        margin-top: 11px;
+        text-align: justify;
+        font-size: 19px;
+        margin-left: 20px;
+        margin-right: -216px;
+    }
+    .pic {
+        background-color: orangered;
+        width: 766px;
+    }
+    .image img {
+        width: 73%;
+        height: 90px;
+        margin-left: 96px;
+    }
+    .T {
+        background-color: grey;
+        color: white;
+        width: 766px;
+    }
+    .Thanks {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-position: center;
+        background-size: cover;
+        width: 890px;
     }
     .At {
-        background-color: orangered;
-        margin-left: 386px;
-        margin-right: -217px;
-        color: white;
-        margin-top: -637px;
+        background-color: beige;
+        padding: 123px 183px;
+        text-align: center;
+        width: 890px;
+    }
+    .send h4 {
+        padding: 20px;
+        font-size: 40px;
+    }
+    .At h6 {
+        font-size: 34px;
+    }
+    .At h1 {
+        font-size: 40px;
     }
     .At p {
         text-align: justify;
-        margin-left: 146px;
-        font-size: 12px;
-        margin-right: 143px;
-        margin-bottom: 48px;
+        font-size: 24px;
+    }
+    .Thanks p {
+        text-align: justify;
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    .Thanks h1 {
+        text-align: center;
+        font-size: 53px;
+    }
+    .Thanks h4 {
+        text-align: center;
+        font-size: 35px;
     }
     .At button {
-        margin-left: 202px;
-        background-color: black;
+        background-color: orangered;
         color: white;
-        margin-top: -21px;
+        border: none;
+        padding: 14px;
+        font-size: 20px;
     }
-    .Thanks {
-        text-align: center;
-        background-image: url(./images/img\ 1.jpeg);
+    .iconbox i {
+        background-color: orangered;
+        height: 30px;
+        width: 30px;
+        padding: 10px;
+        border-radius: 111px;
         color: white;
-        margin-bottom: 40px;
+        font-size: 62px;
+    }
+    .icon p {
         padding: 20px;
-        background-size: cover;
-        background-position: center;
-        margin-top: -72px;
-        margin-left: 2px;
-        margin-right: -189px;
+        margin-left: 20px;
+        font-size: 40px;
     }
     .form {
-        margin-top: -301px;
-        margin-left: 455px;
+        font-size: 48px;
+    }
+    input[type="text"] {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid black;
+        margin-left: 134px;
+        width: 660px;
+    }
+    input[type="content"] {
+        border-left: none;
+        border-right: none;
+        border-top: none;
+        border-bottom: 1px solid black;
+        margin-left: 135px;
+        width: 669px;
+        padding-bottom: 47px;
     }
     .last {
         text-align: center;
         background-color: gray;
-        margin-left: -1px;
         margin-top: 19px;
         color: white;
-        margin-right: -189px;
+        width: 900px;
+    }
+    .last p {
+        margin-bottom: 7px;
+        font-size: 36px;
+    }
+    .last h6 {
+        font-weight: normal;
+        font-size: 35px;
     }
     .navbar-toggler i {
-        font-size: 80px;
+        font-size: 40px;
         color: black;
-        margin-left: 20px;
+        margin-left: 120px;
     }
 }
-        
-        
-       
+@media only screen and (min-width:768px) and (max-width:991.98px)
+{
+    .B {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 768px;
+    }
+    .B h1 {
+        font-size: 38px;
+        text-align: center;
+    }
+    .B button {
+        color: white;
+        background-color: orangered;
+        border: none;
+        padding: 10px;
+        margin-left: 304px;
+    }
+    .D img {
+        width: 32%;
+        height: 564px;
+    }
+    .N p {
+        margin-top: 20px;
+        text-align: justify;
+        font-size: 19px;
+        margin-left: -234px;
+    }
+    .H {
+        background-color: beige;
+        width: 172px;
+        margin-top: -50px;
+    }
+    .G h1 {
+        font-size: 29px;
+        text-align: center;
+        margin-top: -43px;
+    }
+    .Mal {
+        background-color: lightgray;
+        width: 546px;
+        margin-top: -121px;
+    }
+    .k img {
+        width: 378%;
+        height: 609px;
+        margin-left: -155px;
+        margin-top: -189px;
+    }
+    .pic {
+        background-color: orangered;
+        width: 768px;
+        margin-top: -43px;
+    }
+    .image {
+        position: absolute;
+        top: -6px;
+        left: 412px;
+        }
+    .watch h1 {
+        text-align: center;
+        margin-left: -105px;
+    }
+    .T {
+        background-color: grey;
+        color: white;
+        width: 510px;
+        margin-top: -55px;
+    }
+    .T p {
+        margin-left: 34px;
+        text-align: justify;
+        margin-right: 33px;
+    }
+    .s img {
+        position: absolute;
+        width: 32%;
+        top: 5px;
+        left: 522px;
+        height: 544px;
+    }
+    .At {
+        background-color: beige;
+        padding: 123px 183px;
+        text-align: center;
+        width: 756px;
+    }
+    .At p {
+        text-align: justify;
+        font-size: 17px;
+    }
+    .send h4 {
+        padding: 20px;
+        font-size: 25px;
+    }
+    .navbar-toggler i {
+        font-size: 40px;
+        color: black;
+        margin-left: 120px;
+    }
+}
+@media only screen and (min-width:992px) and (max-width:1199.98px)
+{
+    .B {
+        background-image: url(./images/img\ 1.jpeg);
+        color: white;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        width: 1075px;
+    }
+    .B h1 {
+        font-size: 35px;
+    }
+    .C {
+        background-color: pink;
+        width: 1076px;
+    }
+    .D img {
+        width: 47%;
+        height: 502px;
+    }
+    .H {
+        background-color: beige;
+        width: 302px;
+    }
+    .N p {
+        margin-top: 11px;
+        text-align: justify;
+        font-size: 14px;
+    }
+    .Mal {
+        background-color: lightgray;
+        width: 742px;
+        margin-top: -113px;
+    }
+    .k {
+        position: absolute;
+        left: 713px;
+        top: 31px;
+    }
+    .pic {
+        background-color: orangered;
+        width: 991px;
+    }
+}
 
-    
